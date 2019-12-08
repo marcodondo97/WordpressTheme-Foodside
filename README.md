@@ -51,10 +51,13 @@ background-color: ;
 ```
 The default language of theme is English but there is also the translation in italian language.
 
+<b> To see the demo: </b> http://foodside.altervista.org/
+
 <h2> Images </h2>
 
 <img src="screenshot/mockup_foodside.png" width="60%"/>
+Wireframe flow map navigation
  
 <img src="screenshot/screenshot_foodside.png" width="60%"/>
-
+Screenshoot
 
