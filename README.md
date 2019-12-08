@@ -55,6 +55,6 @@ The default language of theme is English but there is also the translation in it
 
 <img src="screenshot/mockup_foodside.png" width="60%"/>
  
-<img src="screenshot/scrscreenshot_foodside.png" width="60%"/>
+<img src="screenshot/screenshot_foodside.png" width="60%"/>
 
 
