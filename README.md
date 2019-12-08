@@ -1,9 +1,10 @@
 # WordpressTheme-Foodside
 
-wordpres theme based on bootstrap responsive ideal as a theme for cooking blogs and recipes.
+Wordpres theme based on bootstrap responsive ideal as a theme for cooking blogs and recipes.
 
 <h2> Introduction </h2>
 Simple and minimal theme for blog based on wordpress.
+
 The aim of this project is to create a blog theme for wordpress.
 
 <h2> Description </h2>
@@ -31,7 +32,7 @@ I also created two page custom:
 2. Contact page: to display contact form to send message to admin (contact.php), this page works thanks to SMTP protocol, check your hosting service enabled this service.
 
 
-WARNING
+<h2>&#x1F53A; Warning &#x1F53A; </h2>
 
 To modify jumbotron background you shuld use the additional css (after log in WP click on paint logo and then click on additional CSS) and write this code:
 ```
