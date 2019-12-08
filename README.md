@@ -55,7 +55,7 @@ The default language of theme is English but there is also the translation in it
 
 <h2> Images </h2>
 
-<img src="screenshot/mockup_foodside.png" width="40%"/>
+<img src="screenshot/mockup_foodside.png" width="60%"/>
 Wireframe flow map navigation
  
 <img src="screenshot/screenshot_foodside.png" width="40%"/>
