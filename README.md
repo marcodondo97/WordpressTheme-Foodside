@@ -52,5 +52,9 @@ background-color: ;
 The default language of theme is English but there is also the translation in italian language.
 
 <h2> Images </h2>
+
+<img src="screenshot/mockup_foodside.png" width="60%"/>
  
+<img src="screenshot/scrscreenshot_foodside.png" width="60%"/>
+
 
