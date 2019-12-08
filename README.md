@@ -9,10 +9,10 @@ The aim of this project is to create a blog theme for wordpress.
 
 <h2> Description </h2>
 
-To create this theme i downloaded starter blank theme on underscores. Link https://underscores.me/
+To create this theme i downloaded starter blank theme on underscores, link: https://underscores.me/
 After that i linked tha blank project with bootstrap and Jquery libreries throught function.php file.
 
-To create the graphic mockup i used Marvel prototype. Link https://marvelapp.com/
+To create the graphic mockup i used Marvel prototype, link: https://marvelapp.com/
 
 In index page there are some section:
 
@@ -31,6 +31,7 @@ I also created two page custom:
 
 2. Contact page: to display contact form to send message to admin (contact.php), this page works thanks to SMTP protocol, check your hosting service enabled this service.
 
+<b> To see the demo: </b> http://foodside.altervista.org/
 
 <h2>&#x1F53A; Warning &#x1F53A; </h2>
 
@@ -51,7 +52,6 @@ background-color: ;
 ```
 The default language of theme is English but there is also the translation in italian language.
 
-<b> To see the demo: </b> http://foodside.altervista.org/
 
 <h2> Images </h2>
 
