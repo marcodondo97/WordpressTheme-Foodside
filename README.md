@@ -1,2 +1,4 @@
 # WordpressTheme-Foodside
-Simple and minimal theme for blog based on wordpress.
+
+wordpres theme based on bootstrap responsive ideal as a theme for cooking blogs and recipes.
+
