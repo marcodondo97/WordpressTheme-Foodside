@@ -1,0 +1,462 @@
+# Copyright (C) 2015 Automattic
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: _s 1.0.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tags/_s\n"
+"POT-Creation-Date: 2015-06-12 21:51:31+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2019-12-05 22:23+0100\n"
+"Language-Team: \n"
+"X-Generator: Poedit 2.2.4\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: it_IT\n"
+
+# @ _s
+#: contact.php:
+msgid "Contact us"
+msgstr "Cantattaci"
+
+# @ _s
+#: contact.php:
+msgid "Please enter your name"
+msgstr "Inserisci il nome"
+
+# @ _s
+#: contact.php:
+msgid "Please enter valid name"
+msgstr "Inserisci un nome valido"
+
+# @ _s
+#: contact.php:
+msgid "Please enter mail"
+msgstr "Inserisci email"
+
+# @ _s
+#: contact.php:
+msgid "Please enter valid email"
+msgstr "Inserisci una email valida"
+
+# @ _s
+#: contact.php:
+msgid "Please enter subject"
+msgstr "Inserisci l'oggetto del messaggio"
+
+# @ _s
+#: contact.php:
+msgid "Please enter message"
+msgstr "Inserisci il messaggio"
+
+# @ _s
+#: contact.php:
+msgid "Sorry, your notice did not verify"
+msgstr "Spiacenti, la tua notifica non è stata verificata"
+
+# @ _s
+#: contact.php:
+msgid "Mail Successfully Sent"
+msgstr "Messaggio inviato"
+
+# @ _s
+#: contact.php:
+msgid "Your name:"
+msgstr "Nome:"
+
+# @ _s
+#: contact.php:
+msgid "Your email:"
+msgstr "Email:"
+
+# @ _s
+#: contact.php:
+msgid "Your subject:"
+msgstr "Oggetto:"
+
+# @ _s
+#: contact.php:
+msgid "Leave a message:"
+msgstr "Messaggio:"
+
+# @ _s
+#: contact.php:
+msgid "Send"
+msgstr "Invia"
+
+# @ _s
+#: header.php:57
+msgid "Search"
+msgstr "Cerca"
+
+# @ _s
+#: archive.php:51
+msgid "Comment"
+msgstr "Commenta"
+
+# @ _s
+#: index.php:73
+msgid "Search article"
+msgstr "Cerca articolo"
+
+# @ _s
+#: index.php:96
+msgid "Recent posts"
+msgstr "Articoli recenti"
+
+# @ _s
+#: index.php:119
+msgid "Read more"
+msgstr "Leggi di più"
+
+# @ _s
+#: index.php:
+msgid "Search..."
+msgstr "Cerca.."
+
+# @ _s
+#: index.php:139
+msgid "Categories"
+msgstr "Categorie"
+
+# @ _s
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oops! Pagina non trovata."
+
+# @ _s
+#: 404.php:19
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+"Sembra che non sia stato trovato nulla in questa posizione. Forse prova uno "
+"dei link sottostanti o una ricerca?"
+
+# @ _s
+#: 404.php:27
+msgid "Most Used Categories"
+msgstr "Categorie più utilizzate"
+
+# @ _s
+#. translators: %1$s: smiley
+#: 404.php:44
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Prova a guardare negli archivi mensili. %1$s"
+
+# @ _s
+#: comments.php:29
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Un pensiero su &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s pensieri su &ldquo;%2$s&rdquo;"
+
+# @ _s
+#: comments.php:38 comments.php:59
+msgid "Comment navigation"
+msgstr "Navigazione dei commenti"
+
+# @ _s
+#: comments.php:41 comments.php:62
+msgid "Older Comments"
+msgstr "Commenti più vecchi"
+
+# @ _s
+#: comments.php:42 comments.php:63
+msgid "Newer Comments"
+msgstr "Commenti più recenti"
+
+# @ _s
+#: comments.php:75
+msgid "Comments are closed."
+msgstr "I commenti sono chiusi."
+
+# @ _s
+#: footer.php:16
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+# @ _s
+#: footer.php:16
+#, php-format
+msgid "Proudly powered by %s"
+msgstr "Realizzato con % s"
+
+# @ _s
+#: footer.php:18
+#, php-format
+msgid "Theme: %1$s by %2$s."
+msgstr "Tema %1$s creato da %2$s."
+
+# @ _s
+#: functions.php:45 header.php:32
+msgid "Primary Menu"
+msgstr "Menu principale"
+
+# @ _s
+#: functions.php:100
+msgid "Sidebar"
+msgstr "Sidebar"
+
+# @ _s
+#: header.php:23
+msgid "Skip to content"
+msgstr "Skip"
+
+# @ _s
+#: inc/extras.php:52
+#, php-format
+msgid "Page %s"
+msgstr "Realizzato con% s"
+
+# @ _s
+#: inc/template-tags.php:23
+msgid "Posts navigation"
+msgstr "Navigazione dei commenti"
+
+# @ _s
+#: inc/template-tags.php:27
+msgid "Older posts"
+msgstr "Commenti più vecchi"
+
+# @ _s
+#: inc/template-tags.php:31
+msgid "Newer posts"
+msgstr "Commenti più recenti"
+
+# @ _s
+#: inc/template-tags.php:56
+msgid "Post navigation"
+msgstr "Navigazione dei commenti"
+
+# @ _s
+#: inc/template-tags.php:86
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Postato il % s"
+
+# @ _s
+#: inc/template-tags.php:91
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr "da %s"
+
+# @ _s
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:108 inc/template-tags.php:114
+msgid ", "
+msgstr ""
+
+# @ _s
+#: inc/template-tags.php:110
+#, php-format
+msgid "Posted in %1$s"
+msgstr "Postato in %1$s"
+
+# @ _s
+#: inc/template-tags.php:116
+#, php-format
+msgid "Tagged %1$s"
+msgstr "Tag %1$s"
+
+# @ _s
+#: inc/template-tags.php:122
+msgid "Leave a comment"
+msgstr "Lascia un commento"
+
+# @ _s
+#: inc/template-tags.php:122
+msgid "1 Comment"
+msgstr "1 Commento"
+
+# @ _s
+#: inc/template-tags.php:122
+msgid "% Comments"
+msgstr "% Commenti"
+
+# @ _s
+#: inc/template-tags.php:126 template-parts/content-page.php:26
+msgid "Edit"
+msgstr "Modifica"
+
+# @ _s
+#: inc/template-tags.php:143
+#, php-format
+msgid "Category: %s"
+msgstr "Categoria: %s"
+
+# @ _s
+#: inc/template-tags.php:145
+#, php-format
+msgid "Tag: %s"
+msgstr "Tag: %s"
+
+# @ _s
+#: inc/template-tags.php:147
+#, php-format
+msgid "Author: %s"
+msgstr "Autore: %s"
+
+# @ _s
+#: inc/template-tags.php:149
+#, php-format
+msgid "Year: %s"
+msgstr "Anno: %s"
+
+# @ _s
+#: inc/template-tags.php:149
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+# @ _s
+#: inc/template-tags.php:151
+#, php-format
+msgid "Month: %s"
+msgstr "Mese: %s"
+
+# @ _s
+#: inc/template-tags.php:151
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+# @ _s
+#: inc/template-tags.php:153
+#, php-format
+msgid "Day: %s"
+msgstr "Giorno: %s"
+
+# @ _s
+#: inc/template-tags.php:153
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr ""
+
+# @ _s
+#: inc/template-tags.php:156
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr ""
+
+# @ _s
+#: inc/template-tags.php:158
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr "Gallerie"
+
+# @ _s
+#: inc/template-tags.php:160
+msgctxt "post format archive title"
+msgid "Images"
+msgstr "Immagini"
+
+# @ _s
+#: inc/template-tags.php:162
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr "Video"
+
+# @ _s
+#: inc/template-tags.php:164
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr ""
+
+# @ _s
+#: inc/template-tags.php:166
+msgctxt "post format archive title"
+msgid "Links"
+msgstr "Collegamenti"
+
+# @ _s
+#: inc/template-tags.php:168
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr ""
+
+# @ _s
+#: inc/template-tags.php:170
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr ""
+
+# @ _s
+#: inc/template-tags.php:172
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr ""
+
+# @ _s
+#: inc/template-tags.php:175
+#, php-format
+msgid "Archives: %s"
+msgstr "Archivi: %s"
+
+# @ _s
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: inc/template-tags.php:179
+#, php-format
+msgid "%1$s: %2$s"
+msgstr "%1$s: %2$s"
+
+# @ _s
+#: inc/template-tags.php:181
+msgid "Archives"
+msgstr "Archivi"
+
+# @ _s
+#: search.php:16
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Risultati di ricerca per: %s"
+
+# @ _s
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Nessun risultato"
+
+# @ _s
+#: template-parts/content-none.php:20
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"Pronto a pubblicare il tuo primo post? <a href=\"%1$s\">Inizia ora</a>."
+
+# @ _s
+#: template-parts/content-none.php:24
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Spiacenti, ma nulla corrisponde ai tuoi termini di ricerca. Riprova con "
+"alcune parole chiave diverse."
+
+# @ _s
+#: template-parts/content-none.php:29
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Sembra che non possiamo trovare quello che stai cercando. Forse la ricerca "
+"può aiutare."
+
+# @ _s
+#: template-parts/content-page.php:19 template-parts/content-single.php:23
+#: template-parts/content.php:32
+msgid "Pages:"
+msgstr "Pagine:"
+
+# @ _s
+#. translators: %s: Name of current post
+#: template-parts/content.php:25
+#, php-format
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Continua a leggere %s <span class=\"meta-nav\">&rarr;</span>"
