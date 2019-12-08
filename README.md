@@ -20,14 +20,14 @@ In index page there are some section:
 
 - Form to search posts (or food recipes);
 
-- The section for the recents post
+- The section for the recent posts;
 
 - The section horizontal scrollable to search the categories.
 
 
 I also created two page custom:
 
-1. About page: to display the writers of the blog (authors.php),
+1. About page: to display the writers of the blog (authors.php):
 
 2. Contact page: to display contact form to send message to admin (contact.php), this page works thanks to SMTP protocol, check your hosting service enabled this service.
 
@@ -55,9 +55,9 @@ The default language of theme is English but there is also the translation in it
 
 <h2> Images </h2>
 
-<img src="screenshot/mockup_foodside.png" width="60%"/>
+<img src="screenshot/mockup_foodside.png" width="40%"/>
 Wireframe flow map navigation
  
-<img src="screenshot/screenshot_foodside.png" width="60%"/>
+<img src="screenshot/screenshot_foodside.png" width="40%"/>
 Screenshoot
 
