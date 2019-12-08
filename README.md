@@ -41,16 +41,15 @@ background-image:url('');
 }
 ```
 
-To modify the background color of the navbar menu you should do the same thing but in addtional CSS you paste this code:
+To modify the background color of the navbar menu you should do the same thing but in addtional CSS you copy and paste this code:
 ```
 .navbar{
 background-color: ;
- /* write the name or the flag color after : */
+ /* write the name or the HEX color after : */
 }
 ```
 The default language of theme is English but there is also the translation in italian language.
 
-
-
-
+<h2> Images </h2>
+ 
 
