@@ -1,6 +1,6 @@
 # WordpressTheme-Foodside
 
-Wordpres theme based on bootstrap responsive ideal as a theme for cooking blogs and recipes.
+Wordpres theme based on bootstrap responsive ideal as a theme for food blogs and recipes.
 
 <h2> Introduction </h2>
 Simple and minimal theme for blog based on wordpress.
@@ -9,33 +9,33 @@ The aim of this project is to create a blog theme for wordpress.
 
 <h2> Description </h2>
 
-To create this theme i downloaded starter blank theme on underscores, link: https://underscores.me/
-After that i linked tha blank project with bootstrap and Jquery libreries throught function.php file.
+To create this theme i downloaded a starter blank theme on underscores, link: https://underscores.me/
+After that i linked the blank project with bootstrap and Jquery libraries throught function.php file.
 
 To create the graphic mockup i used Marvel prototype, link: https://marvelapp.com/
 
-In index page there are some section:
+In the index page there are some sections:
 
-- The section where inser the last sticky post (this section is thought for insert welcome post or presentation post);
+- The section to insert the last sticky post (this section is thought to insert a welcome post or a presentation post);
 
-- Form to search posts (or food recipes);
+- The form to search posts (or food recipes);
 
 - The section for the recent posts;
 
-- The section horizontal scrollable to search the categories.
+- The horizontal section scrollable to search the categories.
 
 
-I also created two page custom:
+I also created two customized pages:
 
 1. About page: to display the writers of the blog (authors.php):
 
-2. Contact page: to display contact form to send message to admin (contact.php), this page works thanks to SMTP protocol, check your hosting service enabled this service.
+2. Contact page: to display contact form to send a message to the admin (contact.php), this page works thanks to SMTP protocol: make sure your hosting service enabled this service.
 
 <b> To see the demo: </b> http://foodside.altervista.org/
 
 <h2>&#x1F53A; Warning &#x1F53A; </h2>
 
-To modify jumbotron background you shuld use the additional css (after log in WP click on paint logo and then click on additional CSS) and write this code:
+To modify jumbotron background you should use the additional css (after logging in WP click on paint logo and then click on additional CSS) and write this code:
 ```
 .jumbotron{
 background-image:url('');
