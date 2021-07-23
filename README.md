@@ -1,6 +1,6 @@
 # WordpressTheme-Foodside
 
-Wordpres theme based on bootstrap responsive ideal as a theme for food blogs and recipes.
+Wordpres theme based on bootstrap for food blogs and recipes.
 
 <h2> Introduction </h2>
 Simple and minimal theme for blog based on wordpress.
@@ -9,7 +9,7 @@ The aim of this project is to create a blog theme for wordpress.
 
 <h2> Description </h2>
 
-To create this theme i downloaded a starter blank theme on underscores, link: https://underscores.me/
+To create this theme I downloaded a starter blank theme on underscores, link: https://underscores.me/
 After that i linked the blank project with bootstrap and Jquery libraries throught function.php file.
 
 To create the graphic mockup i used Marvel prototype, link: https://marvelapp.com/
