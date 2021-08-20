@@ -10,9 +10,9 @@ The aim of this project is to create a blog theme for wordpress.
 <h2> Description </h2>
 
 To create this theme I downloaded a starter blank theme on underscores, link: https://underscores.me/
-After that i linked the blank project with bootstrap and Jquery libraries throught function.php file.
+, after that i linked the blank project with bootstrap and Jquery libraries throught function.php file.
 
-To create the graphic mockup i used Marvel prototype, link: https://marvelapp.com/
+To create the graphic mockup I used Marvel prototype, link: https://marvelapp.com/
 
 In the index page there are some sections:
 
