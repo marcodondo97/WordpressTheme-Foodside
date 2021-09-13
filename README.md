@@ -10,7 +10,7 @@ The aim of this project is to create a blog theme for wordpress.
 <h2> Description </h2>
 
 To create this theme I downloaded a starter blank theme on underscores, link: https://underscores.me/
-, after that i linked the blank project with bootstrap and Jquery libraries throught function.php file.
+, after that I linked the blank project with bootstrap and Jquery libraries throught function.php file.
 
 To create the graphic mockup I used Marvel prototype, link: https://marvelapp.com/
 
@@ -59,5 +59,5 @@ The default language of theme is English but there is also the translation in it
 Wireframe flow map navigation
  
 <img src="screenshot/screenshot_foodside.png" width="40%"/>
-Screenshoot
+Screenshot
 
