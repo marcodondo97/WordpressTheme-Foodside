@@ -25,7 +25,7 @@ In the index page there are some sections:
 - The horizontal section scrollable to search the categories.
 
 
-I also created two customized pages:
+I have also created two customized pages:
 
 1. About page: to display the writers of the blog (authors.php):
 
