@@ -55,9 +55,11 @@ I have also created two customized pages:
 <div align="center">
 <table>
   <tr>
-    <td><img src="screenshot/mockup_foodside.png" width="100%"/></td> 
-    <td><img src="screenshot/screenshot_wp.png" width="100%"/></td> 
-    <td><img src="screenshot/screenshot_foodside.png"width="80%"/></td>   
+    <td align="center"><img src="docs/img/mockup_foodside.png" width="100%"/></td> 
+    <td align="center"><img src="docs/img/screenshot_foodside.png" width="80%"/></td>   
+  </tr>
+  <tr>
+    <td colspan="2" align="center" ><img src="docs/img/screenshot_wp.png" width="80%"/></td> 
   </tr>
 </table>
 </div>
