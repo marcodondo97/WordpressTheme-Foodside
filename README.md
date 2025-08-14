@@ -31,25 +31,23 @@ I have also created two customized pages:
 
 2. Contact page: to display contact form to send a message to the admin (contact.php), this page works thanks to SMTP protocol: make sure your hosting service enabled this service.
 
-<b> To see the demo: </b> http://foodside.altervista.org/
 
+## Getting Started
 
-To modify jumbotron background you should use the additional css (after logging in WP click on paint logo and then click on additional CSS) and write this code:
-```
-.jumbotron{
-background-image:url('');
- /* inside '' you should insert the path of your image */
-}
-```
+**Quick Start with Docker**
 
-To modify the background color of the navbar menu you should do the same thing but in addtional CSS you copy and paste this code:
-```
-.navbar{
-background-color: ;
- /* write the name or the HEX color after : */
-}
-```
-The default language of theme is English but there is also the translation in italian language.
+1. Clone the repository and run docker compose:
+   ```bash
+   git clone <repository-url>
+   cd WordpressTheme-Foodside
+   docker-compose up -d
+   ```
+
+2. Access WordPress and active theme:
+   - URL: http://localhost:8080
+   - Complete the initial WordPress installation
+   - Go to Appearance > Themes
+   - Activate the "Foodside" theme
 
 
 ## Result
@@ -58,6 +56,7 @@ The default language of theme is English but there is also the translation in it
 <table>
   <tr>
     <td><img src="screenshot/mockup_foodside.png" width="100%"/></td> 
+    <td><img src="screenshot/screenshot_wp.png" width="100%"/></td> 
     <td><img src="screenshot/screenshot_foodside.png"width="80%"/></td>   
   </tr>
 </table>
