@@ -1,13 +1,13 @@
-# WordpressTheme-Foodside
+# Foodside Wordpress Theme
 
 Wordpres theme based on bootstrap for food blogs and recipes.
 
-<h2> Introduction </h2>
+## Introduction 
 Simple and minimal theme for blog based on wordpress.
 
 The aim of this project is to create a blog theme for wordpress.
 
-<h2> Description </h2>
+## Description 
 
 To create this theme I downloaded a starter blank theme on underscores, link: https://underscores.me/
 , after that I linked the blank project with bootstrap and Jquery libraries throught function.php file.
@@ -33,7 +33,6 @@ I have also created two customized pages:
 
 <b> To see the demo: </b> http://foodside.altervista.org/
 
-<h2>&#x1F53A; Warning &#x1F53A; </h2>
 
 To modify jumbotron background you should use the additional css (after logging in WP click on paint logo and then click on additional CSS) and write this code:
 ```
@@ -53,11 +52,15 @@ background-color: ;
 The default language of theme is English but there is also the translation in italian language.
 
 
-<h2> Images </h2>
+## Result
 
-<img src="screenshot/mockup_foodside.png" width="60%"/>
-Wireframe flow map navigation
- 
-<img src="screenshot/screenshot_foodside.png" width="40%"/>
-Screenshot
+<div align="center">
+<table>
+  <tr>
+    <td><img src="screenshot/mockup_foodside.png" width="100%"/></td> 
+    <td><img src="screenshot/screenshot_foodside.png"width="80%"/></td>   
+  </tr>
+</table>
+</div>
+
 
