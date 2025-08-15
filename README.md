@@ -38,7 +38,7 @@ I have also created two customized pages:
 
 1. Clone the repository and run docker compose:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/marcodondo97/WordpressTheme-Foodside.git
    cd WordpressTheme-Foodside
    docker-compose up -d
    ```
