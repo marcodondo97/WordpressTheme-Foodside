@@ -37,7 +37,7 @@ services:
     networks:
       - wordpress_network
 
-  # phpMyAdmin (opzionale, per gestire il database)
+  # phpMyAdmin
   phpmyadmin:
     image: phpmyadmin/phpmyadmin:latest
     container_name: foodside_phpmyadmin
